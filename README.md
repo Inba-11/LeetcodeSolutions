@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
