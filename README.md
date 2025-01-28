@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/Inba-11/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2812-find-the-maximum-achievable-number) |
 ## Array
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
