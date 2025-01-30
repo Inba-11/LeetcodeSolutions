@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
+| [2502-sort-the-people](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [2502-sort-the-people](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
+| [2502-sort-the-people](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0344-reverse-string) |
+| [2502-sort-the-people](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
