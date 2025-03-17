@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2502-sort-the-people) |
 | [3429-special-array-i](https://github.com/Inba-11/LeetcodeSolutions/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0344-reverse-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
