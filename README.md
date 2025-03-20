@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Inba-11/LeetcodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
