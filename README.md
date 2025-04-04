@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2502-sort-the-people) |
+| [3194-find-words-containing-character](https://github.com/Inba-11/LeetcodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/Inba-11/LeetcodeSolutions/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Inba-11/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Inba-11/LeetcodeSolutions/tree/master/2502-sort-the-people) |
+| [3194-find-words-containing-character](https://github.com/Inba-11/LeetcodeSolutions/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
